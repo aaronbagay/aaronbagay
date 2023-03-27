@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aaronbagay
-- 👀 I’m interested in Data science, General Purpose Programming
+- 👀 I’m interested in data science, web programming, and fucntional programming
 - 🌱 I’m currently learning python, statistical learning, machine learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
